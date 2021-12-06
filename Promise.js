@@ -1,4 +1,4 @@
-//自定义Promise
+//自定义Promise1
 const PENDING = "pending";
 const RESOLVED = "resolved";
 const REJECTED = "rejected";
